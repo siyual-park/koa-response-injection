@@ -1,6 +1,6 @@
 {
   "name": "koa-response-injection",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Normal function, promise response inject in koa.",
   "main": "lib",
   "scripts": {
@@ -16,5 +16,10 @@
   "files": [
     "lib",
     "test"
-  ]
+  ],
+  "homepage": "https://github.com/kdPark0723/koa-response-injection",
+  "bugs": {
+    "url": "https://github.com/kdPark0723/koa-response-injection/issues",
+    "email": "kdpark023@gmail.com"
+  }
 }
