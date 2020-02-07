@@ -1,6 +1,6 @@
 {
   "name": "koa-response-injection",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Normal function, promise response inject in koa.",
   "main": "lib",
   "scripts": {
