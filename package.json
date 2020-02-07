@@ -1,0 +1,20 @@
+{
+  "name": "koa-response-injection",
+  "version": "1.0.0",
+  "description": "Normal function, promise response inject in koa.",
+  "main": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "response",
+    "injection"
+  ],
+  "author": "Si-Yual Park",
+  "license": "MIT",
+  "files": [
+    "lib",
+    "test"
+  ]
+}
